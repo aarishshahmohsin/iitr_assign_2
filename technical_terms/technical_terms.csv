@@ -1,0 +1,507 @@
+Abbreviation,Pronunciation
+kubectl,Kube Control
+PyTorch,Pie Torch
+NumPy,Num Pie
+SciPy,Sigh Pie
+CUDA,Koo dah
+Redis,Red iss
+Django,Jang go
+GNU,Guh noo
+LaTeX,Lay tek or Lah tek
+MySQL,My Ess Que El
+PostgreSQL,Post gress que el
+RStudio,Are Studio
+Vue.js,View Jay Ess
+Kubernetes,Koo ber net eez
+Anaconda,Anna con dah
+Scala,Ska lah
+MQTT,Em Que Tee Tee
+GraphQL,Graph Que El
+FastAPI,Fast Ay Pee Eye
+PyPI,Pie Pee Eye
+XAML,Zam el
+YAML,Yam el
+systemd,System Dee
+sudo,Soo doh
+cron,Cron
+chmod,Che mod
+chown,Che own
+mkdir,Make dir
+rmdir,Remove dir
+IPv6,Eye Pee Version Six
+CIDR,Cider
+BGP,Bee Gee Pee
+EIGRP,Eye Grip
+OSPF,Oh Ess Pee Eff
+CSRF,See Surf
+CORS,Cores
+JWT,Jay Double You Tee
+OAuth,Oh Auth
+SAML,Sam el
+LDAP,El Dap
+RBAC,Are Back
+AWS,Ay Double You Ess
+GCP,Gee Cee Pee
+Azure,Azh er
+NPM,En Pee Em
+webpack,Web pack
+Nginx,Engine X
+Jenkins,Jen kins
+GitLab,Git Lab
+Maven,May ven
+JIRA,Jee rah
+SonarQube,Sonar Cube
+Grafana,Grah fah nah
+Kibana,Ki bah nah
+Logstash,Log stash
+RxJS,Rex Jay Ess
+NgRx,Engine Rex
+Redux,Ree ducks
+Vuex,View Ex
+TensorFlow,Tensor Flow
+Keras,Ker as
+scikit learn,Sigh kit learn
+Pandas,Pan daz
+Matplotlib,Mat plot lib
+OpenCV,Open See Vee
+YOLO,Yo lo
+BERT,Bert
+GPT,Gee Pee Tee
+LSTM,El Ess Tee Em
+CNN,See En En
+RNN,Are En En
+GAN,Gan
+VAE,Vee Ay Ee
+ResNet,Res Net
+MNIST,Em Nist
+CIFAR,See far
+ImageNet,Image Net
+TFLite,Tee Eff Lite
+ONNX,On ix
+MLOps,Em El Ops
+AIOps,Ay Eye Ops
+DevOps,Dev Ops
+GitOps,Git Ops
+SecOps,Sec Ops
+NoSQL,No Sequel
+MongoDB,Mongo Dee Bee
+Cassandra,Cass san dra
+etcd,Et see dee
+ZooKeeper,Zoo Keeper
+Istio,Iss tee oh
+Envoy,On voy
+gRPC,Gee Are Pee See
+protobuf,Proto buff
+Thrift,Thrift
+RabbitMQ,Rabbit Em Queue
+Kafka,Kaf ka
+ZeroMQ,Zero Em Queue
+HAProxy,Ha Proxy
+LXC,El Ex See
+cgroups,See Groups
+systemctl,System Control
+journalctl,Journal Control
+iptables,Eye Pee Tables
+tcpdump,Tee Cee Pee Dump
+strace,Ess Trace
+dtrace,Dee Trace
+valgrind,Val grind
+GDB,Gee Dee Bee
+LLDB,El El Dee Bee
+CMake,See Make
+Bazel,Bah zel
+Gradle,Gray dul
+SBT,Ess Bee Tee
+PIP,Pip
+Conda,Con dah
+virtualenv,Virtual Env
+venv,Vee Env
+pyenv,Pie Env
+nvm,En Vee Em
+rvm,Are Vee Em
+SDKMAN,Ess Dee Kay Man
+minikube,Mini kube
+kubeadm,Kube admin
+Helm,Helm
+Argo,Ar go
+Tekton,Tek ton
+Anthos,An thos
+EKS,Ee Kay Ess
+AKS,Ay Kay Ess
+GKE,Gee Kay Ee
+OpenShift,Open Shift
+Rancher,Ran cher
+containerd,Container Dee
+CRI O,Cree Oh
+runc,Run See
+OCI,Oh See Eye
+LXD,El Ex Dee
+KVM,Kay Vee Em
+QEMU,Queue Ee Em You
+Xen,Zen
+ESXi,Ee Ess Ex Eye
+NSX,En Ess Ex
+VxLAN,Vee Ex Lan
+BGP,Bee Gee Pee
+OSPF,Oh Ess Pee Eff
+SRv6,Ess Are Version Six
+MPLS,Em Puls
+SDN,Ess Dee En
+NFV,En Eff Vee
+OpenFlow,Open Flow
+P4,Pee Four
+XDP,Ex Dee Pee
+eBPF,Ee Bee Pee Eff
+DPDK,Dee Pee Dee Kay
+VPP,Vee Pee Pee
+OpenVSwitch,Open Vee Switch
+OpenDaylight,Open Day Light
+ONOS,Oh Nos
+OpenStack,Open Stack
+Neutron,New tron
+Nova,No vah
+Cinder,Sin der
+Swift,Swift
+Glance,Glance
+Keystone,Key stone
+Heat,Heat
+Ceph,Seff
+GlusterFS,Gluster Eff Ess
+Lustre,Luster
+HDFS,Aitch Dee Eff Ess
+S3,Ess Three
+EBS,Ee Bee Ess
+EFS,Ee Eff Ess
+NFS,En Eff Ess
+SMB,Ess Em Bee
+iSCSI,Eye Skuzzy
+FCoE,Eff Coe Ee
+SAN,San
+NAS,Nass
+RAID,Raid
+ZFS,Zee Eff Ess
+Btrfs,Butter Eff Ess
+XFS,Ex Eff Ess
+ext4,Ext Four
+NTFS,En Tee Eff Ess
+FAT32,Fat Thirty Two
+exFAT,Ex Fat
+UDF,You Dee Eff
+ISO9660,Eye Ess Oh Nine Six Six Zero
+UEFI,You Ee Fee
+BIOS,Bye oss
+GRUB,Grub
+systemd boot,System Dee Boot
+rEFInd,Ree Find
+DKIM,Dee Kim
+SPF,Ess Pee Eff
+DMARC,Dee Mark
+MTA,Em Tee Ay
+SMTP,Ess Em Tee Pee
+IMAP,Eye Map
+POP3,Pop Three
+OAuth,Oh Auth
+SAML,Sam El
+OpenID,Open Eye Dee
+LDAP,El Dap
+Kerberos,Ker ber os
+AD,Ay Dee
+RADIUS,Ray dee us
+TACACS,Tac acs
+PAM,Pam
+SELinux,Ess Ee Linux
+AppArmor,App Armor
+seccomp,Sec Comp
+TPM,Tee Pee Em
+HSM,Aitch Ess Em
+KMS,Kay Em Ess
+PKCS,Pee Kay Cee Ess
+X.509,Ex Five Oh Nine
+ASN.1,Ay Ess En One
+DER,Deer
+PEM,Pem
+JWK,Jay Double You Kay
+PKIX,Pee Kay Eye Ex
+CRL,See Are El
+OCSP,Oh See Ess Pee
+CAA,See Ay Ay
+DANE,Dane
+TLSA,Tee El Ess Ay
+SSHFP,Ess Ess Aitch Eff Pee
+IPSEC,Eye Pee Sec
+WireGuard,Wire Guard
+OpenVPN,Open Vee Pee En
+L2TP,El Two Tee Pee
+PPTP,Pee Pee Tee Pee
+GRE,Gee Are Ee
+VXLAN,Vee Ex Lan
+GENEVE,Jen eve
+STT,Ess Tee Tee
+NSH,En Ess Aitch
+SFC,Ess Eff See
+VNF,Vee En Eff
+CNF,See En Eff
+NFVi,En Eff Vee Eye
+MANO,Mah no
+OSM,Oh Ess Em
+ONAP,Oh Nap
+XCI,Ex See Eye
+OPNFV,Oh Pee En Eff Vee
+ODL,Oh Dee El
+OVS,Oh Vee Ess
+OVN,Oh Vee En
+FD.io,Eff Dee Eye Oh
+DPDK,Dee Pee Dee Kay
+SPDK,Ess Pee Dee Kay
+DOCA,Doe kah
+DPU,Dee Pee You
+SmartNIC,Smart Nick
+FPGA,Eff Pee Gee Ay
+ASIC,Ay Sick
+NPU,En Pee You
+TPU,Tee Pee You
+GPU,Gee Pee You
+CUDA,Koo dah
+ROCm,Rock Em
+OneAPI,One Ay Pee Eye
+OpenCL,Open See El
+Vulkan,Vul kan
+Metal,Metal
+DirectX,Direct Ex
+OpenGL,Open Gee El
+WebGL,Web Gee El
+WebGPU,Web Gee Pee You
+WGSL,Double You Gee Ess El
+SPIR V,Spear Vee
+HLSL,Aitch El Ess El
+GLSL,Gee El Ess El
+MSL,Em Ess El
+WebRTC,Web Are Tee See
+QUIC,Quick
+gVisor,Gee Visor
+Traefik,Traffic
+Linkerd,Linker Dee
+Cilium,Sill ee um
+Falco,Fal ko
+Vitess,Vite ess
+CockroachDB,Cockroach Dee Bee
+TiDB,Tie Dee Bee
+ClickHouse,Click House
+MinIO,Min Eye Oh
+Ceph,Seff
+etcd,Et see dee
+NATS,Nats
+K3s,Kay Three Ess
+K9s,Kay Nines
+kubeflow,Kube Flow
+MLflow,Em El Flow
+Streamlit,Stream lit
+Dagster,Dag ster
+Prefect,Pre fekt
+Horovod,Horo vod
+JAX,Jacks
+XLA,Ex El Ay
+ONNX,On ix
+TFX,Tee Eff Ex
+RAPIDS,Ra pids
+Dask,Dask
+Numba,Num bah
+Theano,Thee ah no
+PyMC,Pie Em See
+PySpark,Pie Spark
+Deno,Den oh
+Bun,Bun
+pnpm,Puh npm
+Svelte,Svelt
+Astro,As tro
+Qwik,Quick
+SolidJS,Solid Jay Ess
+Preact,Pree act
+Vite,Veet
+esbuild,Ess build
+SWC,Ess Double You See
+Parcel,Par sel
+Rollup,Roll up
+tRPC,Tee Are Pee See
+Prisma,Priz ma
+Drizzle,Driz zul
+TypeORM,Type Oh Are Em
+Sequelize,See qual eyes
+Knex,Kay nex
+SQLAlchemy,Ess Que El Alchemy
+Nix,Nicks
+NixOS,Nicks Oh Ess
+Guix,Geeks
+CoreOS,Core Oh Ess
+Alpine,Al pine
+Buildah,Build ah
+Podman,Pod man
+Skopeo,Sko pay oh
+Trivy,Tri vee
+Snyk,Snick
+SonarQube,Sonar Cube
+ESLint,Ess Lint
+TSLint,Tee Ess Lint
+Pylint,Pie Lint
+RuboCop,Rubo Cop
+PMD,Pee Em Dee
+FindBugs,Find Bugs
+Checkstyle,Check Style
+StyleCop,Style Cop
+Hadolint,Hado lint
+ShellCheck,Shell Check
+Ruff,Ruff
+Black,Black
+Prettier,Prettier
+gofmt,Go Format
+rustfmt,Rust Format
+clang format,Clang Format
+buf,Buff
+Thanos,Than os
+Promtail,Prom tail
+Loki,Low key
+VictoriaMetrics,Victoria Metrics
+M3DB,Em Three Dee Bee
+TSDB,Tee Ess Dee Bee
+InfluxDB,Influx Dee Bee
+OpenTelemetry,Open Teh lem eh tree
+OpenTracing,Open Tracing
+Jaeger,Yay ger
+Zipkin,Zip kin
+Tempo,Tem po
+FluentD,Fluent Dee
+FluentBit,Fluent Bit
+Vector,Vector
+OpenMetrics,Open Metrics
+StatsD,Stats Dee
+collectd,Collect Dee
+Telegraf,Tele graf
+Beats,Beats
+Filebeat,File beat
+Packetbeat,Packet beat
+Metricbeat,Metric beat
+Auditbeat,Audit beat
+Heartbeat,Heart beat
+Functionbeat,Function beat
+journalbeat,Journal beat
+Winlogbeat,Win log beat
+NRPE,En Are Pee Ee
+Nagios,Na gee os
+Icinga,Eye zing ah
+Zabbix,Zab icks
+Sensu,Sen soo
+OpenNMS,Open En Em Ess
+PRTG,Pee Are Tee Gee
+SolarWinds,Solar Winds
+Datadog,Data dog
+NewRelic,New Relic
+AppDynamics,App Dynamics
+Dynatrace,Dyna trace
+Instana,In stah nah
+SignalFx,Signal Eff Ex
+Wavefront,Wave front
+Lightstep,Light step
+Honeycomb,Honey comb
+LaunchDarkly,Launch Dark lee
+ConfigCat,Config Cat
+Split.io,Split Eye Oh
+Optimizely,Op tim ize lee
+Flagsmith,Flag smith
+Harness,Har ness
+Spinnaker,Spin aker
+Flux,Flux
+ArgoCD,Argo See Dee
+Flagger,Flag ger
+Keptn,Kep tin
+Crossplane,Cross plane
+Pulumi,Poo loo me
+CDK,See Dee Kay
+AWS SAM,Ay Double You Ess Sam
+Serverless,Server less
+OpenFaaS,Open Faas
+Knative,Kay Native
+Fission,Fish un
+OpenWhisk,Open Whisk
+Kubeless,Kube less
+Dapr,Dapper
+KEDA,Kay da
+OpenFeature,Open Feature
+CloudEvents,Cloud Events
+NATS,Nats
+RSocket,Are Socket
+WebSocket,Web Socket
+SSE,Ess Ess Ee
+MQTT,Em Queue Tee Tee
+AMQP,Ay Em Queue Pee
+STOMP,Stomp
+CoAP,Co App
+DDS,Dee Dee Ess
+XMPP,Ex Em Pee Pee
+WAMP,Wamp
+SOAP,Soap
+XML RPC,Ex Em El Are Pee See
+JSON RPC,Jay Son Are Pee See
+GraphQL,Graph Queue El
+gRPC,Gee Are Pee See
+tRPC,Tee Are Pee See
+OpenAPI,Open Ay Pee Eye
+AsyncAPI,Async Ay Pee Eye
+Protocol Buffers,Protocol Buffers
+FlatBuffers,Flat Buffers
+Cap'n Proto,Captain Proto
+MessagePack,Message Pack
+CBOR,See Bore
+Avro,Av ro
+Thrift,Thrift
+ASN.1,Ay Ess En One
+Parquet,Par kay
+ORC,Orc
+Arrow,Arrow
+Feather,Feather
+HDF5,Aitch Dee Eff Five
+netCDF,Net See Dee Eff
+GRIB,Grib
+BUFR,Buffer
+ODBC,Oh Dee Bee See
+JDBC,Jay Dee Bee See
+ADO.NET,Ay Dee Oh Dot Net
+PyODBC,Pie Oh Dee Bee See
+SQLAlchemy,Ess Queue El Alchemy
+TypeORM,Type Oh Are Em
+Hibernate,Hi ber nate
+JPA,Jay Pee Ay
+Entity Framework,Entity Framework
+Dapper,Dapper
+MyBatis,My Bat is
+Sequelize,See qual eyes
+Prisma,Priz ma
+Objection.js,Objection Jay Ess
+Bookshelf,Book shelf
+Knex,Kay nex
+Mongoose,Mon goose
+Morphia,Mor fee ah
+Spring Data,Spring Data
+rxjs,Are Ex Jay Ess
+RxJava,Are Ex Java
+RxSwift,Are Ex Swift
+RxPY,Are Ex Pie
+Akka,Ah kah
+Vert.x,Ver tex
+Netty,Net ee
+Reactor,Re actor
+WebFlux,Web Flux
+Project Reactor,Project Reactor
+ZIO,Zee Eye Oh
+cats,Cats
+Arrow,Arrow
+Rx.NET,Are Ex Dot Net
+System.Reactive,System Reactive
+IObservable,Eye Observable
+BackpressureStrategy,Back pressure Strategy
+ConnectableObservable,Connectable Observable
+BehaviorSubject,Behavior Subject
+ReplaySubject,Replay Subject
+AsyncSubject,Async Subject
+PublishSubject,Publish Subject
+UnicastSubject,Unicast Subject
+MulticastSubject,Multicast Subject
