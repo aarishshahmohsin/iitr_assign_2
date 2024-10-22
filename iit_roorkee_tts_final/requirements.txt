@@ -1,0 +1,6 @@
+transformers
+datasets
+librosa
+torch 
+numpy
+sentencepiece
