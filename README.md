@@ -42,21 +42,27 @@ Original Model:
 
 ### Regional Language (Urdu)
 
-1. ```"میرا نام کیا ہے"  Roman: "Mera naam kya hai" ```
+1. ```  Roman: "Mera naam kya hai" ```
+<br>
+"میرا نام کیا ہے"
 <br>
 Finetuned Model:
 <br>
 Original Model:
 <br>
 
-2. ```"آج ایک اچھا دن ہے"  Roman: "Aaj ek acha din hai" ```
+2. ```  Roman: "Aaj ek acha din hai" ```
+<br>
+"آج ایک اچھا دن ہے"
 <br>
 Finetuned Model:
 <br>
 Original Model:
 <br>
 
-3. ```"چلو کچھ بات کرتے ہیں"  Roman: "Chalo kuch baat karte hai" ```
+3. ```  Roman: "Chalo kuch baat karte hai" ```
+<br>
+"چلو کچھ بات کرتے ہیں"
 <br>
 Finetuned Model:
 <br>
