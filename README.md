@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/3b1afa67-9e13-430c-8769-e332b611cef6
 # Fine-tuning Text-to-Speech Models for English Technical Speech and Regional Languages (Urdu) (IIT Roorkee Assignment II)
 
 ## Project Overview
@@ -86,7 +85,11 @@ https://github.com/user-attachments/assets/6d0fc13f-94a1-4130-9614-9a3a1a25676c
 
 <br>
 Original Model:
+
+
 https://github.com/user-attachments/assets/6535f9d7-30b0-4634-96f8-4b985ce35e3c
+
+
 <br>
 
 2. ####  ```  Roman: "Aaj ek acha din hai" "آج ایک اچھا دن ہے" ```
