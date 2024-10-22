@@ -18,7 +18,10 @@ Link to the report: [Link](./report/aarish_final_report.pdf)
 
 ## Samples
 
+Samples can be seen [here](https://github.com/aarishshahmohsin/iitr_assign_2/blob/main/SAMPLES.md)
 
+The samples wav files for Technical Terms can be found under the 'technical_terms/original' and 'technical_terms/finetuned' folders in [technical_terms folder](https://github.com/aarishshahmohsin/iitr_assign_2/tree/main/technical_terms)
+The samples wav files for Technical Terms can be found under the 'regional_language_urdu/original' and 'regional_language_urdu/finetuned' folders in [regional_language_urdu folder](https://github.com/aarishshahmohsin/iitr_assign_2/tree/main/regional_language_urdu)
 
 ## Usage
 
