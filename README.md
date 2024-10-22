@@ -19,21 +19,20 @@ Link to the report: [Link](./report/aarish_final_report.pdf)
 
 ### Technical Terms
 
-1. ```"API is to be Used"```
+1. #### ```"API is to be Used"```
+Finetuned Model:
+<br>
+Original Model:
+<br>
+
+2. #### ```"CUDA is an upcoming technology" ```
 <br>
 Finetuned Model:
 <br>
 Original Model:
 <br>
 
-2. ```"CUDA is an upcoming technology" ```
-<br>
-Finetuned Model:
-<br>
-Original Model:
-<br>
-
-3. ```"OAuth technologies"```
+3. #### ```"OAuth technologies"```
 <br>
 Finetuned Model:
 <br>
@@ -42,8 +41,7 @@ Original Model:
 
 ### Regional Language (Urdu)
 
-1. ```  Roman: "Mera naam kya hai" ```
-<br>
+1. #### ```  Roman: "Mera naam kya hai" ```
 "میرا نام کیا ہے"
 <br>
 Finetuned Model:
@@ -51,8 +49,7 @@ Finetuned Model:
 Original Model:
 <br>
 
-2. ```  Roman: "Aaj ek acha din hai" ```
-<br>
+2. ####  ```  Roman: "Aaj ek acha din hai" ```
 "آج ایک اچھا دن ہے"
 <br>
 Finetuned Model:
@@ -60,8 +57,7 @@ Finetuned Model:
 Original Model:
 <br>
 
-3. ```  Roman: "Chalo kuch baat karte hai" ```
-<br>
+3. #### ```  Roman: "Chalo kuch baat karte hai" ```
 "چلو کچھ بات کرتے ہیں"
 <br>
 Finetuned Model:
